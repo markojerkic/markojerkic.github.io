@@ -30,7 +30,7 @@ instagram_username: jerkicmarko
 linkedin_username: markojerkic
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
